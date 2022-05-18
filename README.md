@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available here, yet
 
-- 💬 I'm currently learning about **JavaScript, HTML, CSS, SQL, PHP**
+- 💬 I'm studying software engineering college
 
 - 📫 How to reach me **betocalestini@hotmail.com**
 
